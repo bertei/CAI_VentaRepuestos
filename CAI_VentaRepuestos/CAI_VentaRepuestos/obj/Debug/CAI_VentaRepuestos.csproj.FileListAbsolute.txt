@@ -1,0 +1,12 @@
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\CAI_VentaRepuestos.exe.config
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\CAI_VentaRepuestos.exe
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\CAI_VentaRepuestos.pdb
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\LibreriaClases.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\LibreriaConsola.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\LibreriaClases.pdb
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\bin\Debug\LibreriaConsola.pdb
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\obj\Debug\CAI_VentaRepuestos.csprojAssemblyReference.cache
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\obj\Debug\CAI_VentaRepuestos.csproj.CoreCompileInputs.cache
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\obj\Debug\CAI_VentaRepuestos.csproj.CopyComplete
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\obj\Debug\CAI_VentaRepuestos.exe
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\CAI_VentaRepuestos\obj\Debug\CAI_VentaRepuestos.pdb

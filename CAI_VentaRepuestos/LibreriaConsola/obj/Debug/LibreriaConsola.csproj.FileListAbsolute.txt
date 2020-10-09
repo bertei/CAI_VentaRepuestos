@@ -1,0 +1,6 @@
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaConsola\bin\Debug\LibreriaConsola.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaConsola\bin\Debug\LibreriaConsola.pdb
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaConsola\obj\Debug\LibreriaConsola.csprojAssemblyReference.cache
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaConsola\obj\Debug\LibreriaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaConsola\obj\Debug\LibreriaConsola.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaConsola\obj\Debug\LibreriaConsola.pdb

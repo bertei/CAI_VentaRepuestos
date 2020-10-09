@@ -1,0 +1,9 @@
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\bin\Debug\LibreriaClases.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\bin\Debug\LibreriaClases.pdb
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\bin\Debug\LibreriaConsola.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\bin\Debug\LibreriaConsola.pdb
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\obj\Debug\LibreriaClases.csprojAssemblyReference.cache
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\obj\Debug\LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\obj\Debug\LibreriaClases.csproj.CopyComplete
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\obj\Debug\LibreriaClases.dll
+C:\Users\Berna\Documents\GitHub\CAI_VentaRepuestos\CAI_VentaRepuestos\LibreriaClases\obj\Debug\LibreriaClases.pdb
